@@ -10,9 +10,9 @@
 		"start": "node server.js"
 	},
 	"keywords": [
-		"descriptive",
+		"freecodecamp",
 		"related",
-		"words"
+		"Express.js"
 	],
 	"repository": {
 		"type": "git",
