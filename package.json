@@ -4,6 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"author": "Rahat Baksh",
+	"description": "A project created as a part of freecodecamp tasks.",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
